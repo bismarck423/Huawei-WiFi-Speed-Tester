@@ -1,0 +1,5 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+config.ini  # 包含敏感信息的文件
