@@ -1,3 +1,6 @@
+# Project: Huawei WiFi 3 LTE Band Scanner & Speed Tester
+# Author: bismarck423
+
 import requests
 import time
 import xml.etree.ElementTree as ET
